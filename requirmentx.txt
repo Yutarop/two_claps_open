@@ -1,0 +1,16 @@
+# two-claps-open
+numpy
+pyaudio
+scipy
+pywin32
+
+# agent on clap
+PyAudio
+pygame
+SpeechRecognition
+dotenv
+gTTS
+langchain
+langchain-core
+langchain-google
+scipy
