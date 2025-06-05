@@ -1,10 +1,4 @@
-# two-claps-open
-numpy
-pyaudio
-scipy
-pywin32
-
-# agent on clap
+# Optional dependencies for voice agent extension
 PyAudio
 pygame
 SpeechRecognition

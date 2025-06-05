@@ -1,0 +1,5 @@
+# Core dependencies for two-claps-open
+numpy
+pyaudio
+scipy
+pywin32
