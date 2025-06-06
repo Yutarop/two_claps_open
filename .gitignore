@@ -3,6 +3,8 @@ Pipfile.lock
 .env
 .idea/
 ex.py
+run_python.ahk
+run_python.bat
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
