@@ -44,3 +44,17 @@ langchain-google
 scipy
 ```
 > 💡 Don’t forget to set your Google API key in a .env file. Google offers a free tier for API usage.
+
+## For windows users (optional)
+Run with 「Ctrl + Alt + P」
+#### .bat
+```bash
+@echo off
+cd /d C:\your\file\path
+pipenv run python two_claps_open.py
+```
+
+#### .ahk
+```bash
+^!p::Run "C:\your\file\path\run_python.bat"
+```
