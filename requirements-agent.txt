@@ -7,4 +7,5 @@ gTTS
 langchain
 langchain-core
 langchain-google
+langchain-google-genai
 scipy
