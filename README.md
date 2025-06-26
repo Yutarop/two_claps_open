@@ -41,6 +41,7 @@ gTTS
 langchain
 langchain-core
 langchain-google
+langchain-google-genai
 scipy
 ```
 > 💡 Don’t forget to set your Google API key in a .env file. Google offers a free tier for API usage.
